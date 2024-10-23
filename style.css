@@ -1,4 +1,10 @@
 body{
-background-color: aquamarine;
+background-color: rgb(107, 129, 122);
 color: black;
+}
+
+section{
+    background-color: rgb(79, 79, 236);
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
