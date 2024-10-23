@@ -6,5 +6,10 @@ section{
     background-color: #86623B;
     padding-top: 80px;
     padding-bottom: 80px;
+    display: flex;
     justify-content: center;
+}
+
+header{
+    margin: 40px
 }
