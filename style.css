@@ -1,13 +1,10 @@
 body{
-background-color: #524b30;
+background-color: #C1AA55;
 color: black;
 }
-
 section{
-    background-color: #bea95a);
+    background-color: #86623B;
     padding-top: 80px;
     padding-bottom: 80px;
-    display:flex;
     justify-content: center;
-    
 }
