@@ -4,7 +4,10 @@ color: black;
 }
 
 section{
-    background-color: rgb#bea95a);
+    background-color: #bea95a);
     padding-top: 80px;
     padding-bottom: 80px;
+    display:flex;
+    justify-content: center;
+    
 }
