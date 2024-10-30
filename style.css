@@ -8,7 +8,8 @@ section{
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
-    text-size-adjust:80px ;
+    text-size:100px
+    
 }
 
 header{
