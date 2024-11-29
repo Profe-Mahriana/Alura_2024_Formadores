@@ -19,7 +19,9 @@ header{
     font-size: 32px;
     color: #1E2729;
 }
-
+img {
+    height: 100px;
+}
 .mais_videos{
     display:flex;
     overflow-x: auto;
