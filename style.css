@@ -1,12 +1,12 @@
-body{
+body {
     background-color: #B0BFC2;
     color: #334245;
     margin: 0px;
-    font-size: 25px;
     font-family: "Roboto", sans-serif;
 
 }
-section{
+
+section {
     background: #d5dfe0;
     padding-bottom: 80px;
     padding-top: 80px;
@@ -15,40 +15,55 @@ section{
 }
 
 
-header{
+header {
     border-bottom: solid 2px rgb(35, 46, 59);
     padding: 20px;
     font-size: 80px;
-    font-family:"Bebas Neue", sans-serif; ;
+    font-family: "Bebas Neue", sans-serif;
+    ;
     color: #1E2729;
 }
+
 img {
     height: 200px;
 }
-.mais_videos{
-    display:flex;
+
+.mais_videos {
+    display: flex;
     overflow-x: auto;
     gap: 10px;
-    justify-content:center ;
+    justify-content: center;
 }
+
 section {
     padding-left: 20px;
     padding-right: 20px;
-  }
-  .chamada {
+}
+
+.chamada {
     background: rgb(231, 227, 236);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
-  }
-  .categorias h2{
+}
+
+.categorias h2 {
     color: rgb(12, 46, 22);
     font-size: 25px;
     display: block;
-  }
-  .categorias{
+}
+
+.categorias {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
-  }
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
