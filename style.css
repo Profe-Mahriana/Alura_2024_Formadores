@@ -26,6 +26,7 @@ img {
     display:flex;
     overflow-x: auto;
     gap: 10px;
+    justify-content:first baseline ;
 }
 section {
     padding-left: 20px;
