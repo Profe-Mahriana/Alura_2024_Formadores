@@ -2,6 +2,7 @@ body{
     background-color: #B0BFC2;
     color: #334245;
     margin: 0px;
+    font-size: 25px;
 }
 section{
     background: #d5dfe0;
@@ -34,4 +35,9 @@ section {
     padding-top: 80px;
     display: flex;
     justify-content: center;
+  }
+  .categorias h2{
+    color: black;
+    font-size: 25px;
+
   }
