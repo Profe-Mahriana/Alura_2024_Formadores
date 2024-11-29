@@ -1,20 +1,20 @@
 body{
-background-color: #C1AA55;
-color: black;
+    background-color: #B0BFC2;
+    color: #334245;
+    margin: 0px;
 }
 section{
-    background-color: #0e0905;
-    padding-top: 80px;
+    background: #d5dfe0;
     padding-bottom: 80px;
+    padding-top: 80px;
     display: flex;
     justify-content: center;
-    text-size-adjust:100px
-
 }
 
+
 header{
-    margin: 40px;
-    background-color: blue;
-    text-size-adjust: 100%;
-    justify-content: center;
+    border-bottom: solid 2px rgb(35, 46, 59);
+    padding: 20px;
+    font-size: 32px;
+    color: #1E2729;
 }
